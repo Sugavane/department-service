@@ -1,0 +1,8 @@
+target/
+.classpath
+.project
+.settings/
+.factorypath
+.sts4-cache/
+*.log
+application-local.properties
